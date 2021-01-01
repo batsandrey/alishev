@@ -1,4 +1,4 @@
-package com.alishev.bats;
+package com.alishev.course;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 

@@ -1,4 +1,4 @@
-package com.alishev.bats;
+package com.alishev.course;
 
 public class TestBean {
     private String name;
